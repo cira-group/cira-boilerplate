@@ -3,7 +3,7 @@ Boilerplate for the cira projects, so that you can get stated creating you tradi
 
 ## Installation
 
-Copy the repository using the [github "Use this template"](https://github.com/cira-group/cira-boilerplate/generate) or [clone](git@github.com:cira-group/cira-boilerplate.git)
+Copy the repository using the [github "Use this template"](https://github.com/cira-group/cira-boilerplate/generate) or [clone](git@github.com:cira-group/cira-boilerplate.git) the repository
 
 When you have it downloaded you can start installing it.
 On macOS and Linux:
